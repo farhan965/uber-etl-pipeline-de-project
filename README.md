@@ -32,3 +32,6 @@ More info about dataset can be found here:
 ## Data Model
 <img src="data_model.jpeg">
 
+## Data Visualization
+[embed]http://uber_data_analytics.pdf[/embed]
+
